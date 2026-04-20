@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mikko Valtanen
 
-<!--
-**valtanenmikko/valtanenmikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering & AI | Turku, Finland
 
-Here are some ideas to get you started:
+I graduated with a Bachelor's degree in Data Engineering & AI in December 2025.
+I build data pipelines, automation tools, and web applications.
+Currently looking for my first role in data engineering or a related field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### TurkuMove
+A directory of sports and fitness venues in Turku, Finland — 100+ locations with an
+interactive map, category filters, premium listings, and an admin dashboard with JWT auth.
+
+Stack: HTML/CSS/JS · Netlify Functions · Node.js · GitHub API
+
+**→ [valtanenmikko.github.io/turkumove](https://valtanenmikko.github.io/turkumove/)**
+
+---
+
+### Portfolio
+**→ [valtanenmikko.github.io](https://valtanenmikko.github.io/)**
+
+---
+
+## Tech
+
+Python · SQL · DuckDB · dbt · Apache Airflow · Pandas  
+JavaScript · HTML · CSS · Node.js  
+Git · Linux · Netlify · GitHub Actions
+
+---
+
+## Contact
+
+valtanenmikko@gmail.com
