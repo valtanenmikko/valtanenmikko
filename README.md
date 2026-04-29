@@ -11,12 +11,12 @@ Currently looking for my first role in data engineering or a related field.
 ## Projects
 
 ### TurkuMove
-A directory of sports and fitness venues in Turku, Finland — 100+ locations with an
+A directory of sports and fitness venues in Turku, Finland — 140+ locations with an
 interactive map, category filters, premium listings, and an admin dashboard with JWT auth.
 
-Stack: HTML/CSS/JS · Netlify Functions · Node.js · GitHub API
+Stack: HTML/CSS/JS · Node.js · GitHub API
 
-**→ [valtanenmikko.github.io/turkumove](https://valtanenmikko.github.io/turkumove/)**
+**→ [turkumove.fi](https://turkumove.fi)**
 
 ---
 
