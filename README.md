@@ -29,7 +29,7 @@ Stack: HTML/CSS/JS · Node.js · GitHub API
 
 Python · SQL · DuckDB · dbt · Apache Airflow · Pandas  
 JavaScript · HTML · CSS · Node.js  
-Git · Linux · Netlify · GitHub Actions
+Git · Linux · GitHub Actions
 
 ---
 
