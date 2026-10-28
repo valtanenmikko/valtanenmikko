@@ -1,38 +1,25 @@
 # Mikko Valtanen
 
-Data Engineering & AI | Turku, Finland
+Junior data engineer | Turku, Finland
 
-I graduated with a Bachelor's degree in Data Engineering & AI in December 2025.
-I build data pipelines, automation tools, and web applications.
-Currently looking for my first role in data engineering or a related field.
-
----
+I graduated in December 2025 with a BBA in Data Engineering & AI from Turku University of Applied Sciences.
+I build data pipelines with Python and SQL, and I'm looking for my first permanent role in data engineering or AI, in Turku or remote.
 
 ## Projects
 
-### TurkuMove
-A directory of sports and fitness venues in Turku, Finland — 140+ locations with an
-interactive map, category filters, premium listings, and an admin dashboard with JWT auth.
+**[infra-intelligence](https://github.com/valtanenmikko/infra-intelligence)**
+Tender and cost intelligence for infrastructure contractors. An ELT pipeline on Databricks with an LLM enrichment step, built on the medallion architecture.
 
-Stack: HTML/CSS/JS · Node.js · GitHub API
+**[TurkuMove](https://turkumove.fi)**
+Interactive map of 250+ sports venues in Turku. Built and maintained by me, with real users.
 
-**→ [turkumove.fi](https://turkumove.fi)**
-
----
-
-### Portfolio
-**→ [valtanenmikko.github.io](https://valtanenmikko.github.io/)**
-
----
+**[Portfolio](https://valtanenmikko.github.io/)**
 
 ## Tech
 
-Python · SQL · DuckDB · dbt · Apache Airflow · Pandas  
-JavaScript · HTML · CSS · Node.js  
-Git · Linux · GitHub Actions
-
----
+Python · SQL · Databricks · Terraform · DuckDB · PostgreSQL · Apache Airflow · Pandas
+JavaScript · Node.js · Git · GitHub Actions
 
 ## Contact
 
-valtanenmikko@gmail.com
+**valtanenmikko@gmail.com · [LinkedIn](https://www.linkedin.com/in/valtanenmikko/)**
