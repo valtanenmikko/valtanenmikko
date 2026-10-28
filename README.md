@@ -7,7 +7,7 @@ I build data pipelines with Python and SQL, and I'm looking for my first permane
 
 ## Projects
 
-**[infra-intelligence](https://github.com/valtanenmikko/infra-intelligence)**
+**[infra-intelligence](https://valtanenmikko.github.io/infra-intelligence/))**
 Tender and cost intelligence for infrastructure contractors. An ELT pipeline on Databricks with an LLM enrichment step, built on the medallion architecture.
 
 **[TurkuMove](https://turkumove.fi)**
